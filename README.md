@@ -10,9 +10,7 @@
 
 <img src="" height="20%" width="50%" alt="Disk Sanitization Steps"/>
 
-<br />
 
-<img src="" height="20%" width="50%" alt="Disk Sanitization Steps"/>
 
 
 
@@ -31,3 +29,9 @@ Our next input is distance, ranging from 0 to 50 feet. This range is primarily b
 <br />
 
 <img src="https://github.com/user-attachments/assets/a5d37a69-66ea-41a7-8c18-88f85f3325db" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+
+
+Our final input is weight. Instead of typical light, medium, and heavy categories, we focused on the maximum weight limit of 220 lbs, which is common for entry-level scooters. Exceeding this limit significantly increases braking distance, often doubling or more. It’s important to note that weight limits vary across scooter types, so our input applies specifically to scooters rated for 220 lbs or less.
+<br />
+
+<img src="https://github.com/user-attachments/assets/f5090244-f8a3-44e7-8434-7c1e6a5fd24a" height="100%" width="100%" alt="Disk Sanitization Steps"/>
