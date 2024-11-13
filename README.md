@@ -72,4 +72,4 @@ Our output is the recommended braking force, expressed as a percentage. This cho
 Using specific membership functions for each input, we created a set of rules that determine the output—in this case, the braking force percentage—based on selected inputs. While we aimed for a sufficient number of rules, we avoided excess, as more rules do not necessarily improve a fuzzy logic system. These rules were crafted intuitively rather than data-driven. Once established, MATLAB interprets these rules to generate a 3D graph, helping us visualize relationships between inputs and outputs. We then debugged the rules to ensure the 3D graph is smooth, with no unexpected dips or bumps that would indicate conflicting rules.
 <br />
 
-<img src="https://github.com/user-attachments/assets/922ce52e-56f4-46b7-93f1-ca0147538b5e" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/31ad4cb1-a2f8-4d0d-9e98-060ea05da270" height="100%" width="100%" alt="Disk Sanitization Steps"/>
