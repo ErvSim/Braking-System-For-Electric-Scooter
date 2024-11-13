@@ -40,3 +40,4 @@ Our first input is speed. Based on our research, entry-level scooters typically 
 <br />
 
 <img src="https://github.com/user-attachments/assets/2b474ead-d936-44af-9b1d-f5824990aed3" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+A paper discussing these findings will be published soon.
