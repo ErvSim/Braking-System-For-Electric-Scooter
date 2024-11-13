@@ -17,7 +17,7 @@ Our final input is weight. Instead of typical light, medium, and heavy categorie
 <img src="https://github.com/user-attachments/assets/f5090244-f8a3-44e7-8434-7c1e6a5fd24a" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 
 
-Our output is the recommended braking force, expressed as a percentage. This choice was based on our intuition rather than formal research, allowing our design to be adaptable to any scooter. Although some brake types perform better than others, we included a 5% margin of error to account for these differences, making our approach versatile. This flexibility proved especially useful given the lack of specific research on braking force values and units for scooters.
+<br /><br />Our output is the recommended braking force, expressed as a percentage. This choice was based on our intuition rather than formal research, allowing our design to be adaptable to any scooter. Although some brake types perform better than others, we included a 5% margin of error to account for these differences, making our approach versatile. This flexibility proved especially useful given the lack of specific research on braking force values and units for scooters.
 <br />
 
 <img src="https://github.com/user-attachments/assets/7582b34b-4c2d-49ba-a044-96db5d487cac" height="100%" width="100%" alt="Disk Sanitization Steps"/>
