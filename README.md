@@ -5,15 +5,12 @@ Using MATLAB's fuzzyLogicDesigner, we developed a Mamdani Type-1 FIS (Fuzzy Infe
 Our first input is speed. Based on our research, entry-level scooters typically operate between 15 and 25 mph, but we set a maximum of 30 mph as a precaution. Using our intuition, we defined membership functions to classify speeds as slow, medium, or fast. The fuzzyLogicDesigner software then adjusts these functions according to our rule set. We applied this approach consistently across all inputs and the output.
 
 <img src="https://github.com/user-attachments/assets/a2c4ab98-e10c-44f8-a10c-f6463e8f7fd0" height="100%" width="100%" alt="Disk Sanitization Steps"/>
-
-
-
 ---
 
-Our next input is distance, ranging from 0 to 50 feet. This range is primarily based on our experience rather than formal research.
+<br />Our next input is distance, ranging from 0 to 50 feet. This range is primarily based on our experience rather than formal research.
 
 
-<br /><img src="https://github.com/user-attachments/assets/a5d37a69-66ea-41a7-8c18-88f85f3325db" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/a5d37a69-66ea-41a7-8c18-88f85f3325db" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 
 
 Our final input is weight. Instead of typical light, medium, and heavy categories, we focused on the maximum weight limit of 220 lbs, which is common for entry-level scooters. Exceeding this limit significantly increases braking distance, often doubling or more. It’s important to note that weight limits vary across scooter types, so our input applies specifically to scooters rated for 220 lbs or less.
