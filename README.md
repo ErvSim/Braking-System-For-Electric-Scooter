@@ -7,6 +7,8 @@ Our first input is speed. Based on our research, entry-level scooters typically 
 
 <img src="https://github.com/user-attachments/assets/a2c4ab98-e10c-44f8-a10c-f6463e8f7fd0" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 
+
+
 ---
 
 Our next input is distance, ranging from 0 to 50 feet. This range is primarily based on our experience rather than formal research.
