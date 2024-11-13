@@ -13,21 +13,17 @@ Our first input is speed. Based on our research, entry-level scooters typically 
 <img src="https://github.com/user-attachments/assets/a5d37a69-66ea-41a7-8c18-88f85f3325db" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 
 
-Our final input is weight. Instead of typical light, medium, and heavy categories, we focused on the maximum weight limit of 220 lbs, which is common for entry-level scooters. Exceeding this limit significantly increases braking distance, often doubling or more. It’s important to note that weight limits vary across scooter types, so our input applies specifically to scooters rated for 220 lbs or less.
+<br /><br />Our final input is weight. Instead of typical light, medium, and heavy categories, we focused on the maximum weight limit of 220 lbs, which is common for entry-level scooters. Exceeding this limit significantly increases braking distance, often doubling or more. It’s important to note that weight limits vary across scooter types, so our input applies specifically to scooters rated for 220 lbs or less.
 <img src="https://github.com/user-attachments/assets/f5090244-f8a3-44e7-8434-7c1e6a5fd24a" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 
 
 <br /><br />Our output is the recommended braking force, expressed as a percentage. This choice was based on our intuition rather than formal research, allowing our design to be adaptable to any scooter. Although some brake types perform better than others, we included a 5% margin of error to account for these differences, making our approach versatile. This flexibility proved especially useful given the lack of specific research on braking force values and units for scooters.
-<br />
-
 <img src="https://github.com/user-attachments/assets/7582b34b-4c2d-49ba-a044-96db5d487cac" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 
-Using specific membership functions for each input, we created a set of rules that determine the output—in this case, the braking force percentage—based on selected inputs. While we aimed for a sufficient number of rules, we avoided excess, as more rules do not necessarily improve a fuzzy logic system. These rules were crafted intuitively rather than data-driven. Once established, MATLAB interprets these rules to generate a 3D graph, helping us visualize relationships between inputs and outputs. We then debugged the rules to ensure the 3D graph is smooth, with no unexpected dips or bumps that would indicate conflicting rules.
-<br />
-
+<br /><br />Using specific membership functions for each input, we created a set of rules that determine the output—in this case, the braking force percentage—based on selected inputs. While we aimed for a sufficient number of rules, we avoided excess, as more rules do not necessarily improve a fuzzy logic system. These rules were crafted intuitively rather than data-driven. Once established, MATLAB interprets these rules to generate a 3D graph, helping us visualize relationships between inputs and outputs. We then debugged the rules to ensure the 3D graph is smooth, with no unexpected dips or bumps that would indicate conflicting rules.
 <img src="https://github.com/user-attachments/assets/31ad4cb1-a2f8-4d0d-9e98-060ea05da270" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 
-With the necessary data inputted into fuzzyLogicDesigner, MATLAB applies clipping and defuzzification methods to generate our output. It combines all inputs and outputs to produce a 3D representation of the system, visualizing how each variable influences the braking force percentage. Shown below are the 3D visuals for Speed vs. Distance, Speed vs. Weight, and Distance vs. Weight, respectively. This graph effectively demonstrates the overall behavior and interaction of inputs in our fuzzy logic model.
+<br /><br />With the necessary data inputted into fuzzyLogicDesigner, MATLAB applies clipping and defuzzification methods to generate our output. It combines all inputs and outputs to produce a 3D representation of the system, visualizing how each variable influences the braking force percentage. Shown below are the 3D visuals for Speed vs. Distance, Speed vs. Weight, and Distance vs. Weight, respectively. This graph effectively demonstrates the overall behavior and interaction of inputs in our fuzzy logic model.
 <br />
 
 <img src="https://github.com/user-attachments/assets/f3725c03-2769-46f4-a835-5755d4a73471" height="100%" width="100%" alt="Disk Sanitization Steps"/>
