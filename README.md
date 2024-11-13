@@ -36,7 +36,7 @@ Our first input is speed. Based on our research, entry-level scooters typically 
 
 <img src="https://github.com/user-attachments/assets/b60fa672-fedc-41b9-b5fe-ca3e9e3049c5" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 
-Due to defuzzification, our system cannot reach the absolute maximum or minimum values; achieving these extremes would require normalization or extending the input ranges. Alongside the 3D visualization, we also used the "rule inference" tool, which allows us to select specific input values and observe the resulting output. This tool is especially useful for debugging, as it highlights which rules influence the output, helping us identify any conflicting rules. Additionally, if we need a specific output value, we can simply enter desired input values to obtain the exact output without searching through the 3D graph.
+<br /><br />Due to defuzzification, our system cannot reach the absolute maximum or minimum values; achieving these extremes would require normalization or extending the input ranges. Alongside the 3D visualization, we also used the "rule inference" tool, which allows us to select specific input values and observe the resulting output. This tool is especially useful for debugging, as it highlights which rules influence the output, helping us identify any conflicting rules. Additionally, if we need a specific output value, we can simply enter desired input values to obtain the exact output without searching through the 3D graph.
 <br />
 
 <img src="https://github.com/user-attachments/assets/2b474ead-d936-44af-9b1d-f5824990aed3" height="100%" width="100%" alt="Disk Sanitization Steps"/>
