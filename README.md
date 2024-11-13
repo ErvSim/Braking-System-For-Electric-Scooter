@@ -25,15 +25,7 @@
 
 <br />
 
-<img src="" height="20%" width="50%" alt="Disk Sanitization Steps"/>
 
-<br />
-
-<img src="" height="20%" width="50%" alt="Disk Sanitization Steps"/>
-
-<br />
-
-<img src="" height="20%" width="50%" alt="Disk Sanitization Steps"/>
 
 
 
@@ -73,3 +65,14 @@ Using specific membership functions for each input, we created a set of rules th
 <br />
 
 <img src="https://github.com/user-attachments/assets/31ad4cb1-a2f8-4d0d-9e98-060ea05da270" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+
+With the necessary data inputted into fuzzyLogicDesigner, MATLAB applies clipping and defuzzification methods to generate our output. It combines all inputs and outputs to produce a 3D representation of the system, visualizing how each variable influences the braking force percentage. Shown below are the 3D visuals for Speed vs. Distance, Speed vs. Weight, and Distance vs. Weight, respectively. This graph effectively demonstrates the overall behavior and interaction of inputs in our fuzzy logic model.
+<img src="https://github.com/user-attachments/assets/f3725c03-2769-46f4-a835-5755d4a73471" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+
+<br />
+
+<img src="https://github.com/user-attachments/assets/eaa8493f-d842-4c89-ab41-3da67b95e0b1" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+
+<br />
+
+<img src="https://github.com/user-attachments/assets/b60fa672-fedc-41b9-b5fe-ca3e9e3049c5" height="100%" width="100%" alt="Disk Sanitization Steps"/>
